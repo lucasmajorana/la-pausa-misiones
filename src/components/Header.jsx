@@ -7,7 +7,6 @@ function Header() {
       <h1>
         <img src={logo} alt="Logo La Pausa" />
         <img src={texto} alt="Texto La Pausa" />
-        <span className="sr-only">La Pausa - Posadas</span>
       </h1>
     </header>
   );
