@@ -47,7 +47,7 @@ function Home() {
         <div className="mision-box multimedia-box">
           {mostrarVideo ? (
             <video width="600" autoPlay muted loop>
-              <source src="public\VID-20250209-WA0036.mp4" type="video/mp4" />
+              <source src="public/VID-20250209-WA0036.mp4" type="video/mp4" />
               Tu navegador no soporta video HTML5.
             </video>
           ) : (

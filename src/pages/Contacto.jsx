@@ -32,6 +32,9 @@ function Contacto() {
       </section>
 
       <section className="mapa">
+        <div>
+          
+        </div>
         <h3>¿Dónde estamos?</h3>
         <iframe
           title="Ubicación en Google Maps"
