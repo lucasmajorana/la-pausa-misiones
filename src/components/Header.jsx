@@ -2,10 +2,9 @@ function Header() {
   return (
     <header>
       <h1>
-        <img src="src\assets\logo.png"></img>
-        <img src="src\assets\texto.png"></img>
-        {/* titulo si queres */}
-        <span className="sr-only"></span>
+        <img src="/assets/logo.png" alt="Logo La Pausa" />
+        <img src="/assets/texto.png" alt="Texto La Pausa" />
+        <span className="sr-only">La Pausa - Posadas</span>
       </h1>
     </header>
   )
